@@ -1,0 +1,69 @@
+#content{
+	padding-top: 1%;
+}
+
+#topofall{
+	padding-left: 2%;
+
+}
+
+#anjan{
+	background-color: rgba(247, 247, 247, 1);
+	padding: 2%;
+	border-bottom: 10px white solid;
+}
+
+#lois{
+	background-color: rgba(247, 247, 247, 1);
+	padding: 2%;
+	border-bottom: 10px white solid;
+}
+
+#klaus{
+	background-color: rgba(247, 247, 247, 1);
+	padding: 2%;
+	border-bottom: 10px white solid;
+}
+
+#paula{
+	background-color: rgba(247, 247, 247, 1);
+	padding: 2%;
+	border-bottom: 10px white solid;
+}
+
+#cehat{
+	background-color: rgba(247, 247, 247, 1);
+	padding: 2%;
+	border-bottom: 10px white solid;
+}
+
+#rani{
+	background-color: rgba(247, 247, 247, 1);
+	padding: 2%;
+	border-bottom: 10px white solid;
+}
+
+#rahi{
+	background-color: rgba(247, 247, 247, 1);
+	padding: 2%;
+border-bottom: 10px white solid;
+}
+
+#addition{
+background-color: rgba(247, 247, 247, 1);
+	padding: 2%;
+}
+
+@media screen and (max-width: 1450px) {
+	#content p{
+		line-height: 200%; font-size: 80%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+@media screen and (min-width: 1451px) {
+	#content p{
+		line-height: 200%; font-size: 120%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+
+
+	

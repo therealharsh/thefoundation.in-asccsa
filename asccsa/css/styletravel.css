@@ -1,0 +1,130 @@
+#content{
+	padding-top: 1%;
+}
+
+#topofus{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+#topofus p{
+	padding: 2%;
+}
+@media screen and (max-width: 1450px) {
+	#listofthings li{
+		line-height: 200%; font-size: 80%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+@media screen and (min-width: 1451px) {
+	#listofthings li{
+		line-height: 200%; font-size: 120%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+
+#contextwithin{
+	padding: 2%;
+}
+
+#listofthings{
+	background-color: rgba(247, 247, 247, 1);
+}
+table{
+	width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #777;
+    border-collapse: collapse;
+}
+
+th{
+	text-align: center;
+	padding: 1%;
+}
+
+@media screen and (max-width: 1450px) {
+	#table p1{
+		font-size: 80%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+
+@media screen and (min-width: 1451px) {
+	#table p1{
+		font-size: 120%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+
+#aftertable{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+@media screen and (max-width: 1450px) {
+	#aftertable p{
+		padding: 2%;
+		font-size: 80%; color: #444; font-weight: 300; font-family: ubuntu; line-height: 200%;
+	}
+}
+
+@media screen and (min-width: 1451px) {
+	#aftertable p{
+		padding: 2%;
+		font-size: 120%; color: #444; font-weight: 300; font-family: ubuntu; line-height: 200%;
+	}
+}
+
+#tablediv{
+	display: none;
+}
+
+#white{
+	background-color: rgba(255, 255, 255, 1);
+}
+
+#white p{
+	padding: 2%;
+}
+
+#grey{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+#grey p{
+	padding: 2%;
+}
+
+#thingsinseeing{
+	display: none;
+}
+
+#thingsineat{
+	display: none;
+}
+
+#thingsinshop{
+	display: none;
+}
+
+#thingsinother{
+	display: none;
+}
+
+#thingsincab{
+	display: none;
+}
+
+#placestoeat{
+	background-color: rgba(255, 255, 255, 1);
+}
+
+#placestoeat p{
+	padding: 2%;
+}
+
+#lounges{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+#lounges p{
+	padding: 2%;
+}
+
+

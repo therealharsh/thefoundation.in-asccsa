@@ -1,0 +1,177 @@
+/* #### Desktops #### */
+@media screen and (min-width: 1200px){
+
+	html{
+		padding-top: 1%;
+		padding-bottom: 1%;
+	}
+
+
+	#header{
+		width: 84%;
+		background-color: #fff;
+		margin: 0 auto;
+		padding-bottom: 11%;
+		border-bottom: 1px solid;
+		/*padding-left: 3%;
+		padding-right: 3%;
+		padding-bottom: 3%;
+		padding-top: 2%;*/
+		
+	}
+
+	#header p{
+		text-transform: uppercase;
+		text-align: center;
+		font-size: 150%;
+		color: white;
+	}
+
+	#header span{
+		color: #222;
+	}
+
+	#asc{
+		margin-left: 0;
+		overflow: hidden;
+		width: 30%;
+		float:left;
+		padding-top: 1%;
+	}
+
+	#thefoundation{
+		display:inline;
+		overflow: hidden;
+		width: 12%;
+		float:left;
+		padding-left: 15%;
+		padding-top: 0.5%;
+	}
+
+	#bajaj{
+		float:right;
+		padding-right: 3%;
+		overflow: hidden;
+		width: 20%;
+		padding-left: 10%;
+	}
+
+	#logo{
+		width: 100%;
+	}
+
+	#wrapper{
+		overflow:hidden;
+		background-color: white;
+		/*border: 1px #868789 solid;*/
+		width: 80%;
+		height: 100%;
+		margin: 0 auto;
+		padding: 0%;
+	}
+
+	#nav{
+		margin-left: 0;
+		overflow: hidden;
+		width: 20%;
+		float:left;
+		background-color:rgb(0,0,0,0.3);
+		padding-top: 20px;
+	}
+
+	#nav ul {
+		position: relative;
+	    list-style: none outside none;
+	    margin: 0;
+	}
+
+	#nav a {
+		font-family: 'Oswald';
+		font-size: 100%;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 500;
+		text-transform: uppercase;
+		text-decoration: none;
+		text-align: left;
+	    display: block;
+	    width: 60%;
+	    padding: 10%;
+	    color: white;
+	    background-color: #52336E;
+	    border-right: #868789 1px solid;
+	    border-left: #868789 1px solid;
+	    border-top: #fff 1px solid;
+	    border-bottom: #fff 1px solid;
+
+	    -o-transition:.5s;
+	  	-ms-transition:.5s;
+	  	-moz-transition:.5s;
+	  	-webkit-transition:.5s;
+	  	transition:.5s;
+	}
+
+	#nav a:hover{
+		background-color: #F58734;
+		color:white;
+	}
+
+	#nav .active{
+		background-color: #F58734;
+		color:white;
+	}
+
+	#content{
+		overflow: hidden;
+		float:left;
+		background-color:transparent;
+		width:74%;
+		padding-right: 2%;
+	}
+
+	#content p{
+		line-height: 180%; font-size: 100%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+
+	#content ul{
+		line-height: 180%; font-size: 100%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+
+
+	table th{
+		padding-left: 3%;
+		text-align: left;
+		border: 1px #444 solid;
+		line-height: 180%; 
+		font-size: 100%; 
+		color: #444; 
+		font-weight: 300;
+		font-family: ubuntu;
+	}
+
+	footer{
+		width: 80%;
+		height: 10%;
+		background-color: #F58734;
+		bottom:0;
+		margin: 0 auto;
+	}
+
+	footer p{
+		padding-top: 2%;
+		font-family: 'Oswald';
+		font-size: 90%;
+		text-align: center;
+		color: white;
+		padding-bottom: 1%;
+	}
+
+	footer a:link{
+		text-decoration: none;
+		color: #52336E;
+	}
+
+	footer span{
+		color: #52336E;
+	}
+}

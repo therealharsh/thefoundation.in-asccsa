@@ -1,0 +1,126 @@
+#content{
+	padding-top: 1%;
+}
+
+#topofus{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+#topofus p{
+	padding: 2%;
+}
+@media screen and (max-width: 1450px) {
+	#listofthings li{
+		line-height: 200%; font-size: 80%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+@media screen and (min-width: 1451px) {
+	#listofthings li{
+		line-height: 200%; font-size: 120%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+
+#contextwithin{
+	padding: 2%;
+}
+
+#listofthings{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+table, th, td {
+	width: 100%;
+    border: 1px solid #777;
+    border-collapse: collapse;
+}
+
+th{
+	width: 25%;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: left;
+}
+
+@media screen and (max-width: 1450px) {
+	#table p1{
+		font-size: 80%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+
+@media screen and (min-width: 1451px) {
+	#table p1{
+		font-size: 120%; color: #444; font-weight: 300; font-family: ubuntu;
+	}
+}
+
+#aftertable{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+@media screen and (max-width: 1450px) {
+	#aftertable p{
+		padding: 2%;
+		font-size: 80%; color: #444; font-weight: 300; font-family: ubuntu; line-height: 200%;
+	}
+}
+
+@media screen and (min-width: 1451px) {
+	#aftertable p{
+		padding: 2%;
+		font-size: 120%; color: #444; font-weight: 300; font-family: ubuntu; line-height: 200%;
+	}
+}
+
+#para1{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+#para1 p{
+	padding: 2%;
+}
+
+#para2{
+	background-color: rgba(255, 255, 255, 1);
+}
+
+#para2 p{
+	padding: 2%;
+}
+
+#para3{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+#para3 p{
+	padding: 2%;
+}
+
+#para4{
+	background-color: rgba(255, 255, 255, 1);
+}
+
+#para4 p{
+	padding: 2%;
+}
+
+#para5{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+#para5 p{
+	padding: 2%;
+}
+
+#para6{
+	background-color: rgba(255, 255, 255, 1);
+}
+
+#para6 p{
+	padding: 2%;
+}
+
+#details1, #details2, #details3{
+	display: none;
+	background-color: rgba(247, 247, 247, 1);
+}
+

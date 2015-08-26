@@ -1,0 +1,11 @@
+#formnow{
+	background-color: rgba(247, 247, 247, 1);
+}
+
+#formnow form{
+	padding: 2%;
+}
+
+p1{
+	font-size: 80%; color: #444; font-weight: 300; font-family: ubuntu;
+}
